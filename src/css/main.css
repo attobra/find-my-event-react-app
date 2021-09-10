@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(#e66465, #9198e5);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1{
+  font-weight: 900;
+  font-size: 3rem;
+}
